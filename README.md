@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es Matias/Abby Miramon 
+- Vivo en Ituzaingo 
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Realice el curso que ofrecio la facultad hace poco sobre Git
+- Soy de la carrera de videojuegos
